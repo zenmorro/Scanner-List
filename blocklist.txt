@@ -1,7 +1,7 @@
 # Scanner List
 # Auto-generated threat feed from a Node.js honeypot.
-# Updated: 2026-07-22T04:00:01.752Z
-# Entries: 1058
+# Updated: 2026-07-23T04:00:01.504Z
+# Entries: 1059
 # Format: one IP per line. Lines starting with # are comments.
 #
 1.15.32.131
@@ -58,6 +58,7 @@
 4.213.3.195
 4.223.83.61
 4.223.135.162
+4.223.226.192
 4.228.83.28
 4.232.93.183
 4.232.94.73
