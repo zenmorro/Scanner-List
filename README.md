@@ -3,8 +3,8 @@
 Auto-generated public threat-intelligence feed of IP addresses caught by a
 Node.js honeypot (SSH brute-force, scanner/recon paths, web-app probes).
 
-**Last updated:** 2026-10-29T04:00:01.389Z
-**Entries:** 2517
+**Last updated:** 2026-10-30T04:00:01.895Z
+**Entries:** 2528
 
 ## Files
 
